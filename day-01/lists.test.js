@@ -20,5 +20,3 @@ function multiplesOfNDesc(n, max = 50) {
 test('multiples of n', () => {
   expect(multiplesOfNDesc(5)).toEqual([50, 45, 40, 35, 30, 25, 20, 15, 10, 5]);
 });
-
-test('');
