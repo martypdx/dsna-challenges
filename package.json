@@ -1,0 +1,24 @@
+{
+  "name": "dsna-challenges",
+  "version": "1.0.0",
+  "description": "Repository for code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martypdx/dsna-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martypdx/dsna-challenges/issues"
+  },
+  "homepage": "https://github.com/martypdx/dsna-challenges#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
