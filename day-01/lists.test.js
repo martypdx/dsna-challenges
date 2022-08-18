@@ -85,7 +85,7 @@ function uniqueChar(string) {
   return '_';
 }
 
-function uniqueString(booger) {
+function uniqueString3(booger) {
   const newBoog = booger.map((str) => {
     return [...new Set(str.toLowerCase())].sort().join('');
   });
